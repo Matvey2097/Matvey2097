@@ -78,7 +78,7 @@
 
 
 ## 🎒 Образование
-<img src="/Certificate.png" width="280px" hspace="10px" alt="Диплом»">]
+<img src="/Certificate.png" width="280px" hspace="10px" alt="Диплом»">
 
 <br>
 <br>
